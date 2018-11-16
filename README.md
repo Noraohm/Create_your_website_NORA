@@ -38,7 +38,7 @@ lass Movie ():
     def show_trailer (self):
         webbrowser.open(self.trailer_youtube_url)        
         
-``
+```
 
 2)	 Movie_Website you will use some HTML , CSS & JS code to set up the page also you will need to use front-end framework like 
 Bootstrap or flask with some Python codes to open the page and the required content to be appear.
@@ -46,8 +46,6 @@ Bootstrap or flask with some Python codes to open the page and the required cont
 
 3)	Movies_center to add all displayed movie information’s. In this you need to import the 2 rest files to shape the information as its.
 
-
-`
 
 
 ## Authors
